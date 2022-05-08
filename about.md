@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-https://github.com/in0finite
+[github.com/in0finite](https://github.com/in0finite)
